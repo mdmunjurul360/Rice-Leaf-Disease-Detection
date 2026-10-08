@@ -1,8 +1,42 @@
+# Node
 node_modules/
-build/
 dist/
-coverage/
-.DS_Store
+build/
+
+# Vite
+.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Model Cache
+.ipynb_checkpoints/
+
+# Logs
+logs/
 *.log
-.env*
-!.env.example
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary
+*.tmp
+*.bak
