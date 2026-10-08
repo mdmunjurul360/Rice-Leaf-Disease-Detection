@@ -190,18 +190,18 @@ If you find this project helpful, consider giving it a ⭐ on GitHub.
 ### 🏠 Home Page
 The main landing page of the Rice Leaf Disease Detection System.
 
-![Home Page](/screenshots/home.png)
+![Home Page](screenshots/home.png)
 
 ---
 
 ### 🔬 Disease Detection Result
 Displays the uploaded rice leaf image, predicted disease, confidence score, and treatment recommendations.
 
-![Detection Result](./docs/screenshots/test_result.png)
+![Detection Result](screenshots/test_result.png)
 
 ---
 
 ### 🌐 Bengali Language Support
 Demonstrates the Bengali interface for improved accessibility and usability.
 
-![Bengali Interface](./docs/screenshots/bangla_info.png)
+![Bengali Interface](screenshots/bangla_info.png)
