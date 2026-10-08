@@ -190,7 +190,7 @@ If you find this project helpful, consider giving it a ⭐ on GitHub.
 ### 🏠 Home Page
 The main landing page of the Rice Leaf Disease Detection System.
 
-![Home Page](./docs/screenshots/home.png)
+![Home Page](/screenshots/home.png)
 
 ---
 
